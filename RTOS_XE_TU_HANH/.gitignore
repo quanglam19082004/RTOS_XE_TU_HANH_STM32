@@ -1,0 +1,14 @@
+# Bỏ qua các file cấu hình Debug/Run
+*.launch
+# Bỏ qua các thư mục build code (để không đẩy file .hex, .bin, .elf lên Git cho nặng)
+Debug/
+Release/
+# Bỏ qua các thư mục, file tạm của hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Bỏ qua các file sinh ra trong quá trình biên dịch C/C++
+*.o
+*.d
+*.su
+*.map
