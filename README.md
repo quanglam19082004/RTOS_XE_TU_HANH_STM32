@@ -42,9 +42,16 @@ Cấp nguồn cho xe tự hành.
 Mở terminal, di chuyển đến thư mục Ground_Station.
 Chạy lệnh: python robot_map.py.
 Giao diện "BẢN ĐỒ ODOMETRY TUYỆT ĐỐI" sẽ hiện ra và cập nhật liên tục quỹ đạo của xe.
-6. Kết quả thực tế
-Dưới đây là video demo quá trình xe tự hành chạy thực tế trên sàn và các bản đồ quỹ đạo (odometry) được thu thập từ Ground Station.
+## 6. Kết quả thực tế
 
-Video Demo: 3.mp4
-Robot tự hành: Screenshot 2026-10-18 112604.png
-Quỹ đạo: Map_pic.png
+Dưới đây là hình ảnh phần cứng thực tế của robot và các bản đồ quỹ đạo (odometry) được thu thập từ Ground Station.
+
+### 🤖 Mô hình phần cứng xe tự hành
+![Robot tự hành](./Screenshot%202026-10-18%20112604.jpg)
+
+### 🗺️ Bản đồ quỹ đạo Odometry
+![Quỹ đạo xe chạy](./Map_pic_2.png)
+
+### 🎬 Video Demo thực tế
+<video src="./3.mp4" controls width="100%"></video>
+*(Nếu video không tự chạy trực tiếp trên trình duyệt do dung lượng lớn, bạn có thể bấm vào repo để tải file `3.mp4` về xem).*
