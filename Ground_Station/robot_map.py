@@ -132,8 +132,8 @@ if __name__ == '__main__':
     thread.start()
     
     ax.set_title("BẢN ĐỒ ODOMETRY TUYỆT ĐỐI", fontsize=14, fontweight='bold')
-    ax.set_xlabel("Trục X (mét)")
-    ax.set_ylabel("Trục Y (mét)")
+    ax.set_xlabel("Trục X (dm)")
+    ax.set_ylabel("Trục Y (dm)")
     ax.grid(True, linestyle='--', alpha=0.7)
     
     # Khóa tỉ lệ X, Y bằng nhau để xe rẽ đúng góc vuông, không bị méo map

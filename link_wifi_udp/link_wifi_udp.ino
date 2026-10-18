@@ -6,10 +6,9 @@
 // ========================================================
 // 1. CẤU HÌNH MẠNG WIFI VÀ ĐÍCH ĐẾN (CỦA LÂM)
 // ========================================================
-const char* ssid = "QUANGHUNG";       
-const char* password = "19681968";      
-
-const char* LAPTOP_IP = "192.168.1.5";     
+const char* ssid = "Lam";       
+const char* password = "11111111";
+const char* LAPTOP_IP = "172.20.10.2";     
 const int UDP_PORT = 5005;                   
 
 WiFiUDP udp;

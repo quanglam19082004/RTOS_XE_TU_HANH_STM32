@@ -1,0 +1,26 @@
+# --- STM32CubeIDE ---
+**/Debug/
+**/Release/
+*.elf
+*.bin
+*.hex
+*.o
+*.d
+*.su
+*.map
+*.launch
+
+# --- Python (Ground Station) ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# --- Arduino / ESP IDE ---
+build/
+
+# --- IDE & Hệ điều hành ---
+.vscode/
+.DS_Store
+Thumbs.db

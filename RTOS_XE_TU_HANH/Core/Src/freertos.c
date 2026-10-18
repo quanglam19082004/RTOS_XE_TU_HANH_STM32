@@ -601,7 +601,7 @@ void Robot_TurnLeft(void)
 {
     // 1. Cấp ga rẽ mù (Căn lại osDelay cho vừa 90 độ)
     Motor_SetSpeed(999,0);
-    osDelay(300);
+    osDelay(200);
     Motor_SetSpeed(0, 0);
 
     // 2. Chờ thân xe bớt rung lắc cơ học
@@ -621,7 +621,7 @@ void Robot_TurnRight(void)
 {
     // 1. Cấp ga rẽ mù
     Motor_SetSpeed(0,999);
-    osDelay(300);
+    osDelay(200);
     Motor_SetSpeed(0, 0);
 
     // 2. Chờ thân xe tĩnh lại
@@ -640,7 +640,7 @@ void Robot_TurnAround(void)
 {
     // 1. Cấp ga rẽ mù quay đầu
     Motor_SetSpeed(999, 0);
-    osDelay(650);
+    osDelay(400);
     Motor_SetSpeed(0, 0);
 
     // 2. Chờ thân xe tĩnh lại
