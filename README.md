@@ -44,11 +44,16 @@ Chạy lệnh: python robot_map.py.
 Giao diện "BẢN ĐỒ ODOMETRY TUYỆT ĐỐI" sẽ hiện ra và cập nhật liên tục quỹ đạo của xe.
 ## 6. Kết quả thực tế
 
-Dưới đây là hình ảnh phần cứng thực tế của robot và các bản đồ quỹ đạo (odometry) được thu thập từ Ground Station.
+Dưới đây là hình ảnh phần cứng thực tế của xe tự hành và các bản đồ quỹ đạo (odometry) thu thập từ Ground Station.
 
 ### 🤖 Mô hình phần cứng xe tự hành
-![Robot tự hành](./Screenshot 2026-10-18 112604.png)
+![Robot tự hành](./robot.jpg)
 
+### 🗺️ Bản đồ quỹ đạo Odometry
+![Quỹ đạo xe chạy](./map.png)
+
+### 🎬 Video Demo thực tế
+<video src="./3.mp4" controls width="100%"></video>
 ### 🗺️ Bản đồ quỹ đạo Odometry
 ![Quỹ đạo xe chạy](./Map_pic_2.png)
 
