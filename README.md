@@ -47,15 +47,10 @@ Giao diện "BẢN ĐỒ ODOMETRY TUYỆT ĐỐI" sẽ hiện ra và cập nhậ
 Dưới đây là hình ảnh phần cứng thực tế của xe tự hành và các bản đồ quỹ đạo (odometry) thu thập từ Ground Station.
 
 ### 🤖 Mô hình phần cứng xe tự hành
-![Robot tự hành](./robot.jpg)
+![Robot tự hành](./robot.png)
 
 ### 🗺️ Bản đồ quỹ đạo Odometry
 ![Quỹ đạo xe chạy](./map.png)
-
-### 🎬 Video Demo thực tế
-<video src="./3.mp4" controls width="100%"></video>
-### 🗺️ Bản đồ quỹ đạo Odometry
-![Quỹ đạo xe chạy](./Map_pic_2.png)
 
 ### 🎬 Video Demo thực tế
 <video src="./3.mp4" controls width="100%"></video>
